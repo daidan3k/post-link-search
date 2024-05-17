@@ -1,1 +1,2 @@
-# post-link-search
+# Post Link Search
+Post Link Search es un plugin de WordPress innovador diseñado para mejorar la experiencia del usuario y aumentar la interacción con los posts de tu sitio. Este plugin permite configurar tus publicaciones para que, al cargar, se abra automáticamente una nueva pestaña en el navegador del usuario con una búsqueda predeterminada en su motor de búsqueda preferido. Esta funcionalidad puede ser especialmente útil para proporcionar a tus visitantes recursos adicionales, resultados de investigación, o simplemente para mejorar la retención y el compromiso en tu sitio.
